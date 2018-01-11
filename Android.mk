@@ -17,6 +17,6 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4
 
-LOCAL_PACKAGE_NAME := AEXPapers
+LOCAL_PACKAGE_NAME := AICPapers
 
 include $(BUILD_PACKAGE)
