@@ -1,6 +1,5 @@
 #
-# Copyright (C) 2013 XenonHD
-#
+# 
 # Licensed under the GNU GPLv2 license
 #
 # The text of the license can be found in the LICENSE file
@@ -17,6 +16,6 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4
 
-LOCAL_PACKAGE_NAME := AEXPapers
+LOCAL_PACKAGE_NAME := AICPapers
 
 include $(BUILD_PACKAGE)
