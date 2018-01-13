@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package org.aicp.aicpapers;
+package org.aicp.AICPapers;
 
 import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
